@@ -16,7 +16,11 @@ Xora is a Modern UI/UX SaaS website developed using React.js and Tailwind CSS th
 
 👉 Pixel Perfect Design: Ensures flawless responsiveness across all devices and screen sizes.
 
+## 📷 Preview
+https://xora-fawn.vercel.app/
+
 ## ⚙️ Tech Stack
 - React.JS
 - Tailwind CSS
 - Vite
+
